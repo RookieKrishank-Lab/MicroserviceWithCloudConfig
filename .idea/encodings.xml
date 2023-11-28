@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/Api-Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Config-Server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Employee-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Organization-Service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Service-Discovery/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/department-service/src/main/java" charset="UTF-8" />
   </component>
